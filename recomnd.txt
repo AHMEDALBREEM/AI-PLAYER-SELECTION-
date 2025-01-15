@@ -1,0 +1,6 @@
+"C:\Users\asdal\AppData\Local\Programs\Python\Python311\python.exe" main.py
+
+xgboost
+
+
+cd C:\Users\asdal\Downloads\player-selection

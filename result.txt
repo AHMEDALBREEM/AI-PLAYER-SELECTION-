@@ -1,0 +1,17 @@
+Selected Players:
+Alice Brown - Position: Central Defensive Midfielder - Selection Probability: 0.7500167534103745
+John Smith - Position: Right Back - Selection Probability: 0.7472445594822984
+Charlie Green - Position: Center Back - Selection Probability: 0.4422804232804233
+Grace Pink - Position: Central Attacking Midfielder - Selection Probability: 0.43142801252754814
+Frank Red - Position: Central Midfielder - Selection Probability: 0.41808260339877973
+Ivy Silver - Position: Left Winger - Selection Probability: 0.3756447903947905
+Diana Black - Position: Left Back - Selection Probability: 0.28623875888392475
+Eve Blue - Position: Right Winger - Selection Probability: 0.27807112584124977
+Harry Gold - Position: Center Back - Selection Probability: 0.16170496360999792
+Bob White - Position: Goalkeeper - Selection Probability: 0.1451099504360374
+
+Selected Plan:
+offensive_focus: Medium
+defensive_style: Balanced
+pace: Normal
+formation: 4-3-3
